@@ -21,6 +21,7 @@ public class GooglewithAtag {
 		for(WebElement alllinks:link) {
 			System.out.println(alllinks.getAttribute("href"));
 		}
+		driver.quit();
 		
 	}
 
