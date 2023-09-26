@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T18:31:30 EDT" name="Default suite" finished-at="2023-09-25T18:31:35 EDT" duration-ms="5153">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T18:31:30 EDT" name="Default test" finished-at="2023-09-25T18:31:35 EDT" duration-ms="5153">
+      <class name="com.smokeAndRegerssion.GoogleTest">
+        <test-method signature="google()[pri:0, instance:com.smokeAndRegerssion.GoogleTest@7193666c]" started-at="2023-09-25T18:31:30 EDT" name="google" finished-at="2023-09-25T18:31:35 EDT" duration-ms="5096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+      </class> <!-- com.smokeAndRegerssion.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
